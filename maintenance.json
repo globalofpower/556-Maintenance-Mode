@@ -1,7 +1,7 @@
 {
      "is_web_open": "yes",
      "is_dashboard_open": "no",
-     "is_agent_open": "no",
+     "is_agent_open": "yes",
      "is_sub_open": "no",
      "reset_app": "2"
 }

@@ -1,9 +1,9 @@
 {
-     "is_web_open": "no",
-     "is_dashboard_open": "no",
-     "is_agent_open": "no",
-     "is_sub_open": "no",
-     "reset_app": "2",
+     "is_web_open": "yes",
+     "is_dashboard_open": "yes",
+     "is_agent_open": "yes",
+     "is_sub_open": "yes",
+     "reset_app": "1",
      "message": "Hello World"
 }
    
